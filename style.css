@@ -25,8 +25,35 @@ nav{
 }
 
 /*Header Section*/
+
+header{
+    margin-bottom: 20px;
+}
+
 .imag{
     width: 700px;
     height: auto;
 }
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+#lightblue{
+    color: rgb(8, 202, 250) ;
+}
+
+.subtitles{
+    font-size: 16px;
+}
+
+/*Main Section*/
+
+main{
+    font-size: 25px;
+}
+
+/*Immages Section*/
+
 
