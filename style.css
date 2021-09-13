@@ -1,11 +1,13 @@
 /*Body Section*/
 body{
     margin: 0;
+    font-family: 'Kaisei Tokumin', serif;;
 }
 
 #container{
     width: 99%;
     margin: auto;
+    margin-bottom: 50px;
 }
 
 /*Nav Section*/
@@ -54,16 +56,21 @@ main{
     font-size: 25px;
 }
 
+ul{
+    margin: 50px 0px;
+}
+
 table, th, td {
     border: 1px solid transparent;
     border-collapse: collapse;
     size: 100%;
-
+    margin: 50px 0px
   }
 
 .first_cell{
     width: 20%;
     padding: 0;
+    text-align: left;
 }
 
 .second_cell{
@@ -72,14 +79,17 @@ table, th, td {
 
 .third_cell{
     width: 50%;
+    text-align: left;
 }
 
 #firstLorem{
     padding: 0;
+    text-align: left;
 }
 
 #blue{
     background-color: rgb(46, 172, 255);
+    color: white;
 }
 
 .light-blue{
