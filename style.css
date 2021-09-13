@@ -90,4 +90,15 @@ table, th, td {
     background-color: rgb(205, 245, 255)
 }
 
+/*Footer Section*/
 
+h3{
+    color: grey;
+    font-size: 20px;
+}
+
+#box1{
+    width: 100px;
+    height: auto;
+    background-image: url(./img/monitor.jpg);
+}
