@@ -92,13 +92,34 @@ table, th, td {
 
 /*Footer Section*/
 
+footer{
+    margin-top: 45px;
+}
+
 h3{
     color: grey;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.box{
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    font-size: 40px;
+    color: white;
 }
 
 #box1{
-    width: 100px;
-    height: auto;
     background-image: url(./img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
 }
+
+#box2{
+    background-image: url(./img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
