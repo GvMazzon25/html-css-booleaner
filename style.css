@@ -90,6 +90,10 @@ table, th, td {
     background-color: rgb(205, 245, 255)
 }
 
+.subtitling{
+    background-color: yellow;
+}
+
 /*Footer Section*/
 
 footer{
